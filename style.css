@@ -1,0 +1,36 @@
+.f-style{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+    color: black;
+}
+.bg-blue{
+    background-color: blue;
+}
+
+/* button:hover{
+    background-color:green;
+} */
+.button:hover{
+    background-color:green;
+}
+.button{
+    width: 15rem;
+    height: 5rem;
+    background-color: blue;
+    color: #fff;
+}
+#Paragraph {
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 35px;
+    line-height: 53px;
+    font-weight: 400;
+    color: rgb(0, 0, 0)
+}
+.button{
+   margin-left: 43%;
+   margin-top: 20px;
+
+}
